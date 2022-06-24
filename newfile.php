@@ -2,7 +2,7 @@
 
 
 
-echo "new";
+echo "news";
 
 
 
